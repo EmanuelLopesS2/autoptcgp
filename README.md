@@ -1,4 +1,7 @@
 # autoptcgp
+
+<h2>I USE AN EMULATOR (MuMu) IN FULLSCREEN, might be different for you</h2>
+
 Bot that automatically starts a Battle and surrenders, hoping for people to Thank at the end
 
 The script uses pyautogui, and some png images to locate and sync the location to click
